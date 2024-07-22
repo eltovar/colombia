@@ -1,6 +1,6 @@
 :root{
-    --bg-primary: #0571ff;
-    --text-primary: white;
+    --bg-primary: #ff0505;
+    --text-primary: rgb(255, 251, 0);
 }
 
 *{
